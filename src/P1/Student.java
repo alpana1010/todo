@@ -24,6 +24,7 @@ public class Student {
        Student s2 = new Student(2, "sumit", "java",6000f);
         //s1.display();
         System.out.println("hello world");
+        System.out.println("hello world2");
        s2.display();
     }
 }
